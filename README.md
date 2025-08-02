@@ -1,2 +1,11 @@
-# SITE_CURRICULO_HTML
-Projeto Currículo em HTML  Página web estática criada como projeto para o curso de Desenvolvimento de Sistemas do SENAI. O objetivo foi aplicar conceitos básicos de HTML para criar um currículo online, incluindo minhas experiências , formação e contatos.
+Meu Currículo Online - Projeto SENAI
+
+Este repositório contém o código de uma página de currículo estática, desenvolvida como atividade para a imersão em Desenvolvimento de Sistemas do SENAI.
+
+O projeto foi construído utilizando apenas HTML e estilos inline para simular a abordagem de um desenvolvedor iniciante. A página apresenta minhas informações profissionais, como:
+
+Experiência de trabalho 
+
+* Formação acadêmica 
+
+* Contatos e links para redes profissionais
